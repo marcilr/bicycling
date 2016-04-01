@@ -1,0 +1,39 @@
+#
+# svn_ext_val.txt
+# Created Sun Jan 26 13:56:50 AKST 2014
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+#
+# List of repo hierarchical directories to checkout under bicycling/
+#
+# chain
+# crankset
+# docs        Documentation
+# fixie
+# frame
+# handlebar
+# lights
+# motorized
+# new
+# pedals
+# pogies
+# pogies-DOG
+# seatpost
+# specialized
+#
+./chain         svn+ssh://home/data/svnroot/activities/bicycling/chain/chain
+./crankset      svn+ssh://home/data/svnroot/activities/bicycling/crankset/crankset
+./docs          svn+ssh://home/data/svnroot/activities/bicycling/docs/docs
+./fixie         svn+ssh://home/data/svnroot/activities/bicycling/fixie/fixie
+./frame         svn+ssh://home/data/svnroot/activities/bicycling/frame/frame
+./handlebar     svn+ssh://home/data/svnroot/activities/bicycling/handlebar/handlebar
+./lights        svn+ssh://home/data/svnroot/activities/bicycling/lights/lights
+./motorized     svn+ssh://home/data/svnroot/activities/bicycling/motorized/motorized
+./new           svn+ssh://home/data/svnroot/activities/bicycling/new/new
+./pedals        svn+ssh://home/data/svnroot/activities/bicycling/pedals/pedals
+./pogies        svn+ssh://home/data/svnroot/activities/bicycling/pogies/pogies
+./pogies-DOG    svn+ssh://home/data/svnroot/activities/bicycling/pogies-DOG/pogies-DOG
+./seatpost      svn+ssh://home/data/svnroot/activities/bicycling/seatpost/seatpost
+./specialized   svn+ssh://home/data/svnroot/activities/bicycling/specialized/specialized
+
