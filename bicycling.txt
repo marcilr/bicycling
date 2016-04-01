@@ -1,0 +1,6 @@
+bicycling.txt
+Created Fri Apr  1 08:47:53 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Bicycling
