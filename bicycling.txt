@@ -6,6 +6,18 @@ Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
 Bicycling
 
 
+Thu Jun 23 06:11:20 AKDT 2016
+=============================
+Fast day yet of 36 minites from home to planet fitness at the northway mall
+north of GCI's AOC at the old ADN building.  Left home at 4:59AM and had
+Shena's Giant Trance locked at Planet Fitness at 5:35AM.
+
+Doing Syniverse GCI Go Live this morning to change GCI Network Services, OSS,
+to GCI IT, to Syniverse, to IT network flow.  The goal is to update to 
+OSS, to Syniverse, to IT elimininating the extra IT hop.  I need to disable
+network flow to IT at 7:00AM.  Hence early day.
+
+
 Fri Apr  1 08:21:31 AKDT 2016
 =============================
 Fast day yet of 34 minites from home to planet fitness at the northway mall
