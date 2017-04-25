@@ -17,5 +17,8 @@ links.txt
 svn_ext_val.txt
   List of repo hierarchical directories to checkout under bicycling/
 
+ti/
+  Titanium bikes and parts
+
 TODO items for bicycling
 
