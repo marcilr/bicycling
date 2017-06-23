@@ -1,0 +1,5 @@
+specialized.txt
+Created Fri Jun 23 14:51:42 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+Specialized tires
