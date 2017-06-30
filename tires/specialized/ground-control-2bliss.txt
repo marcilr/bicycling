@@ -1,0 +1,39 @@
+ground-control-2bliss.txt
+Created Fri Jun 23 14:53:11 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Ground Control 2Bliss Ready tire
+
+
+Not only does it feature improved cut-resistance, but we've also
+optimized the tread using FE Analysis.  The end result is a tire
+that rolls fast and provides increased grip, traction, and
+confidence in every imaginable condition.
+
+
+The Ground Control 2Bliss Ready is an exceptionally versatile
+trail tire.  Not only does it feature improved cut-resistance,
+but we've also optimized the tread using FE Analysis.  The end
+result is a tire that rolls fast and provides increased grip,
+traction, and confidence in every imaginable condition.
+
+o Casing: 60 TPI for 15% improved cut-resistance over S-Works
+  model; 650b x 3.0" is 120 TPI
+o Bead: Foldable
+o Butyl wrapped bead = 2Bliss Ready
+o Compound: 60a
+o 26 x 2.1"; psi 35-65; approximate weight 585g
+o 26 x 2.3"; psi 35-65; approximate weight 610g
+o 650b x 2.1"; psi 35-65; approximate weight 630g
+o 650b x 2.3"; psi 35-65; approximate weight 675g
+o 650b x 3.0"; Max Ride 20 psi / Max Install 35 psi; approximate weight 1045g
+o 29 x 2.1"; psi 35-65; approximate weight 660g
+o 29 x 2.3"; psi 35-65; approximate weight 720g
+
+
+Links
+=====
+Ground Control 2Bliss Ready
+https://www.specialized.com/us/en/components/ground-control-2bliss-ready/105887
+
