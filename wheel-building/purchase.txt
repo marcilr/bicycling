@@ -21,6 +21,26 @@ Bicycle is a Specialized Rockhopper think 2014.
 Shifting is Shimano trigger with 3 gears up front
 and 8 in the back.
 
+Thu Oct 19 14:38:40 AKDT 2017
+=============================
+Over lunch I called wheelbuilding.com to order my new pair of wheels.
+
+hubs:     Chris King ISO disc with FunBolts
+          Question as to whether the front hub supports funbolts.
+          Will do secure quick release nuts if not.
+
+color:    mango/orange front, navy rear
+
+rims:     DT EX 471 (cross-country rims)
+spokes:   DT Competition
+color:    silver spokes & nipples
+shipping: in 1 to 2 weeks
+price:    ~$1,100
+
+Put on boa
+
+Will call mobile for questions
+
 
 Wed Oct 18 14:12:27 AKDT 2017
 =============================
@@ -35,6 +55,26 @@ Advised:
 
 Links
 =====
+Chris King FunBolts
+PHB507-10
+A bolt-on alternative to our QR axle.
+o Fits a 135x10mm QR Axle or Singlespeed Axle
+  on Chris King ISO Rear Hubs (not compatible with 150mm, 157mm Hubs)
+o Allows you to run Funbolts instead of a QR Skewer
+price: $68.50
+https://chrisking.com/products/549
+
 DT STANDARD PRO LOCK
 https://www.dtswiss.com/en/products/spokes-nipples/nipples/dt-standard/
 
+DT Swiss - EX 471
+Let your muscles play on the uphills and switch to attack mode for
+the downhills.  This is exactly what the DT Swiss Enduro rims are
+made for.  Each rim is a piece of high precision engineering and
+thanks to the extremely resistant alloy, the EX 471 can cope with
+the most demanding trails.
+rim diameter: 622mm (29"/700C)
+reference diameter: 600mm
+net weight: 530g
+From: $108.90
+https://www.dtswiss.com/en/products/rims/mtb/enduro/ex-471/
