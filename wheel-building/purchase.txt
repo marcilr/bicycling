@@ -1,0 +1,40 @@
+purchase.txt
+Created Wed Oct 18 14:12:27 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Want to build new set of wheels:
+  spokes: 32
+  standard double butt4ed
+  DT Competition, p. 4
+  (2mm-18mm-2mm), p. 41
+  3-cross lacing pattern, p. 4
+
+  DT Swiss nippled, p. 59
+  nipples: standard 12mm, p. 52
+
+  DT Swiss Brass 12mm black (to match rim) nipples
+  Chris King 
+
+
+Bicycle is a Specialized Rockhopper think 2014.
+Shifting is Shimano trigger with 3 gears up front
+and 8 in the back.
+
+
+Wed Oct 18 14:12:27 AKDT 2017
+=============================
+Called Specialized at (877)808-8154 and asked about the width of
+my hubs on $700 2014 Specialized Rockhopper.
+
+Advised:
+  rear:  135mm x 10mmm quick release
+  front: 100mm x 9mm quick release
+
+142mm for thru-axle hubs
+
+Links
+=====
+DT STANDARD PRO LOCK
+https://www.dtswiss.com/en/products/spokes-nipples/nipples/dt-standard/
+
