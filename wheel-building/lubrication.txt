@@ -5,10 +5,17 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 Lubrication
 
-ISO Hub Manual, p. 7
+ISO Hub Manual
 
 Chris King
 Precision Components
+
+Lubrication, p. 7
+The RingDrive, Inspection, Basic maintenance, p. 17
+
+Summer (32 - 110F) Chris Kigng RingDrive grease
+Winter sub-freezing conditions - quality 10w synthetic oil.
+  Pedros SynLube or Mobil 1 <===
 
 
 Lubrication
