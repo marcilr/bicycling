@@ -3,25 +3,6 @@ Created Wed Oct 18 14:12:27 AKDT 2017
 Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Want to build new set of wheels:
-  spokes: 32
-  standard double butted
-  DT Competition, p. 4
-  (2mm-18mm-2mm), p. 41
-  3-cross lacing pattern, p. 4
-
-  DT Swiss nippled, p. 59
-  nipples: standard 12mm, p. 52
-
-  DT Swiss Brass 12mm black (to match rim) nipples
-  Chris King 
-
-
-Bicycle is a Specialized Rockhopper think 2014.
-Shifting is Shimano trigger with 3 gears up front
-and 8 in the back.
-
-
 Wheelbuilder is located at: 
 1291 Mountain View Circle
 Azusa, CA 91702-1601
