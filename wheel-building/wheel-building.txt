@@ -5,3 +5,16 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 Build your wheel
 
+
+Want to build new set of wheels:
+  spokes: 32
+  standard double butted
+  DT Competition, p. 4
+  (2mm-18mm-2mm), p. 41
+  3-cross lacing pattern, p. 4
+
+  DT Swiss nippled, p. 59
+  nipples: standard 12mm, p. 52
+
+  DT Swiss Brass 12mm black (to match rim) nipples
+  Chris King 
