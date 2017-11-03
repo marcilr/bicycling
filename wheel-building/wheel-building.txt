@@ -6,6 +6,11 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 Build your wheel
 
 
+Bicycle is a Specialized Rockhopper think 2014.
+Shifting is Shimano trigger with 3 gears up front
+and 8 in the back.
+
+
 Want to build new set of wheels:
   spokes: 32
   standard double butted
