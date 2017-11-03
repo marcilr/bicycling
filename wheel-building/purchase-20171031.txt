@@ -1,0 +1,171 @@
+purchase.txt
+Created Wed Oct 18 14:12:27 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Want to build new set of wheels:
+  spokes: 32
+  standard double butted
+  DT Competition, p. 4
+  (2mm-18mm-2mm), p. 41
+  3-cross lacing pattern, p. 4
+
+  DT Swiss nippled, p. 59
+  nipples: standard 12mm, p. 52
+
+  DT Swiss Brass 12mm black (to match rim) nipples
+  Chris King 
+
+
+Bicycle is a Specialized Rockhopper think 2014.
+Shifting is Shimano trigger with 3 gears up front
+and 8 in the back.
+
+
+Wheelbuilder is located at: 
+1291 Mountain View Circle
+Azusa, CA 91702-1601
+Phone:: 626-442-4444
+Fax: 626-442-4442
+
+
+
+Thu Nov  2 08:29:05 AKDT 2017
+=============================
+Called wheelbuilder.com to place 2nd order for:
+
+o Chris King RingDrive Lube
+  Out of stock on Chris King site
+  Per call to Chris King at (800)523-6008 on 11/02/17
+
+  Chris King RingDrive lube is specifically designed to
+  work with the patented RingDrive engagement system found
+  on all Chris King hubs.  It is engineered for high
+  performance at all temperatures and less rolling resistance.
+
+  Additional Information:
+  o 1.2 fl oz
+  o 1.2 oz. will do 12 overhauls
+  o Not recommended for the Chris King R45 hub.
+    For the R45 we recommend using a synthetic motor oil
+    such as Mobil 1 5/20.
+
+  NOTE: Also out of stock at wheelbuilder.com
+
+o Chris King Hub Service Tool - $188.00
+  For ISO, CLASSIC, and BMX
+
+  The Chris King hub service tool is a high quality shop
+  tool designed to completely disassemble and reassemble
+  Chris King ISO, Classic, and BMX hubs.  Though not
+  required for basic adjustment or routine hub maintenance,
+  it makes a striking addition to your service shop, allowing
+  professional and home mechanics to perform complete ISO,
+  Classic, and BMX hub overhauls and bearing service.  A hub
+  cone adjusting tool and comprehensive technical manual are
+  included in the complete kit.
+
+  o Engineered, manufactured and assembled in
+    Portland, Oregon USA
+  o Made from USA sourced high quality aluminum and heat
+    treated stainless steel
+  o Compatible with ISO, Classic, and BMX hub types
+  o Anodized finish in Tool Grey
+  o Includes Hub Cone Adjusting Tool, Cog Spline Wrench,
+    Spline Driver, 2x LD Guide Bushings & Driveshell Bushing Tool
+  https://chrisking.com/products/467
+
+  price: $188.00 (chrisking.com & wheelbuilder.com - 11/02/2017)
+
+  marcilr@gmail.com
+  
+  Ordered
+  -------
+  Tool, Hub, Standard, Kit                       - $188.00
+  T-Shirt, Upsidedown, XL, Charcol - Black       -  $29.00
+  T-Shirt, World Champ Gen 2, XL, Black          -  $29.00
+  FedEx 2-Day                                    -  $30.73
+                                          ----------------
+                                          Total:   $276.73
+
+  Confirmation: 400156
+
+  Put on boa
+
+
+  Ordered from Chris King since in stock.
+
+  NOTE: Special order on wheelbuilder.com site.
+        i.e. 9-12 business days for processing.
+  http://www.wheelbuilder.com/chris-king-hub-service-tool-kit.html
+
+
+
+Tue Oct 31 10:55:01 AKDT 2017
+=============================
+The new wheel set arrived via FedEx.  Very, very nice with Chris King hubs and 
+DT Swiss EX471 rims.  No doubt the best wheels I've own.
+
+See WHEELBUILDER.COM 626-4424444 CA, hit boa card for $1,203.20 yesterday.
+
+Need to do audit of parts here.
+
+
+
+Thu Oct 19 14:38:40 AKDT 2017
+=============================
+Over lunch I called wheelbuilding.com to order my new pair of wheels.
+
+hubs:     Chris King ISO disc with FunBolts
+          Question as to whether the front hub supports funbolts.
+          Will do secure quick release nuts if not.
+
+color:    mango/orange front, navy rear
+
+rims:     DT EX 471 (cross-country rims)
+spokes:   DT Competition
+color:    silver spokes & nipples
+shipping: in 1 to 2 weeks
+price:    ~$1,100
+
+Put on boa
+
+Will call mobile for questions
+
+
+Wed Oct 18 14:12:27 AKDT 2017
+=============================
+Called Specialized at (877)808-8154 and asked about the width of
+my hubs on $700 2014 Specialized Rockhopper.
+
+Advised:
+  rear:  135mm x 10mmm quick release
+  front: 100mm x 9mm quick release
+
+142mm for thru-axle hubs
+
+Links
+=====
+Chris King FunBolts
+PHB507-10
+A bolt-on alternative to our QR axle.
+o Fits a 135x10mm QR Axle or Singlespeed Axle
+  on Chris King ISO Rear Hubs (not compatible with 150mm, 157mm Hubs)
+o Allows you to run Funbolts instead of a QR Skewer
+price: $68.50
+https://chrisking.com/products/549
+
+DT STANDARD PRO LOCK
+https://www.dtswiss.com/en/products/spokes-nipples/nipples/dt-standard/
+
+DT Swiss - EX 471
+Let your muscles play on the uphills and switch to attack mode for
+the downhills.  This is exactly what the DT Swiss Enduro rims are
+made for.  Each rim is a piece of high precision engineering and
+thanks to the extremely resistant alloy, the EX 471 can cope with
+the most demanding trails.
+rim diameter: 622mm (29"/700C)
+reference diameter: 600mm
+net weight: 530g
+From: $108.90
+https://www.dtswiss.com/en/products/rims/mtb/enduro/ex-471/
