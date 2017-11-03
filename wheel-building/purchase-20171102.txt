@@ -1,4 +1,4 @@
-purchase.txt
+purchase-20171102.txt
 Created Wed Oct 18 14:12:27 AKDT 2017
 Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
