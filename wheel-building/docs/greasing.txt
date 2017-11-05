@@ -6,13 +6,19 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 Greasing Chris King hubs
 
 
-isomanual_8_1_16.pdf
-  ISO Hub Manual
-  Chris King
-  Precision Components
-  Latest as of November 3, 2017
-  https://chrisking.com/files/public/content/media/document/4/9/isomanual_8_1_16.pdf
 
+ring_drive_lube_addendum_10_16_b.pdf
+  RingDrive Lube Addendum
+  Technical Bulletin
+  Effective: 10/01/2016
+  'Starting in October of 2016, ALL hubs will now ship with a
+  revised OIL BASED RingDrive Lube. Field service should now
+  implement the use of "RingDrive II" (Coming Soon) or high
+  quality 10w-30 full synthetic motor oil (e.g. Mobil 1 10w-30).
+  When servicing RingDrive use approximately 2-4ml of 10w-30
+  synthetic oil, applied directly onto the Drive and Driven rings
+  when filling the hub.'
+  https://chrisking.com/files/public/content/media/document/2/0/ring_drive_lube_addendum_10_16_b.pdf
 
 
 NOTE: The rear hub does have a 2.5mm hex nut on the non-drive side.
@@ -37,8 +43,21 @@ Tools:
 Lubrication:
   o Tri-flow to axle O-ring (on axle and one in cap on other end - for front)
   o anti-seize to threads
-  o 10w-30 synthetic oil
+  o Mobil 1 10w-30 synthetic oil
 
+  Procedure front:
+  1. Disassembly of two piece axle on front ISO hub (see Figure 5), p. 8
+     2x 5mm hex wrenches to take out two piece axle 
+
+  2. Reassembly of two piece axle on front ISO hub (see Figure 5), p. 8
+     Lightly grease threads on axle, adjusting cone and axle end.  Apply two drops
+     of Tri-flow or a quality 10w synthetic oil to axle O-ring.
+  
+  3. When servicing RingDrive use approximately 2-4ml of 10w-30
+     synthetic oil, applied directly onto the Drive and Driven rings
+     when filling the hub.
+     --ring_drive_lube_addendum_10_16_b.pdf
+  
 
 Lubricants:
   Tri-flow - Have 
@@ -486,4 +505,23 @@ isomanual_8_1_16.pdf
   Latest as of November 3, 2017
   https://chrisking.com/files/public/content/media/document/4/9/isomanual_8_1_16.pdf
 
+ring_drive_lube_addendum_10_16_b.pdf
+  RingDrive Lube Addendum
+  Technical Bulletin
+  Effective: 10/01/2016
+  'Starting in October of 2016, ALL hubs will now ship with a
+  revised OIL BASED RingDrive Lube. Field service should now
+  implement the use of "RingDrive II" (Coming Soon) or high
+  quality 10w-30 full synthetic motor oil (e.g. Mobil 1 10w-30).
+  When servicing RingDrive use approximately 2-4ml of 10w-30
+  synthetic oil, applied directly onto the Drive and Driven rings
+  when filling the hub.'
+  https://chrisking.com/files/public/content/media/document/2/0/ring_drive_lube_addendum_10_16_b.pdf
+
+
+Links
+=====
+Manuals
+Chris King Precision Components
+https://chrisking.com/manuals
 
