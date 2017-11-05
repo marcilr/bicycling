@@ -1,0 +1,44 @@
+audit-wheels-20171031.txt
+Created Sun Nov  5 12:19:51 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Audit of wheels with Chris Hubs add DT Swiss wheels 
+purchased from wheelbuilder.com on October 31, 2017
+
+
+Front wheel
+===========
+From inspectiion of new 29" front wheel
+
+rim:      DT Swiss EX471
+          Made by DT Swiss
+          29
+          Max. spoke tension 1700 N
+          Rim dimension 622x25
+          Read Manual Before Use
+          labeled: WheelBuilder.com
+
+hub:      Chris King
+          Precision Components
+          Made in U.S.A
+          s/n: 1511135004
+
+Rear wheel
+==========
+From inspectiion of new 29" rear wheel
+
+rim:      Same markings as front
+
+hub:      Chris King
+          Precision Components
+          Made in U.S.A
+          U.S. Pat. 5,964,332
+          s/n: 1620079813
+
+cassette: Shimano HG
+          CS-HG51-8 aw
+          11-32
+          Made in Indonedia
+          VIA
+          Lock 40 Nm
