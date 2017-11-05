@@ -7,82 +7,85 @@ Greasing Chris King hubs
 
 
 
-ring_drive_lube_addendum_10_16_b.pdf
-  RingDrive Lube Addendum
-  Technical Bulletin
-  Effective: 10/01/2016
-  'Starting in October of 2016, ALL hubs will now ship with a
-  revised OIL BASED RingDrive Lube. Field service should now
-  implement the use of "RingDrive II" (Coming Soon) or high
-  quality 10w-30 full synthetic motor oil (e.g. Mobil 1 10w-30).
-  When servicing RingDrive use approximately 2-4ml of 10w-30
-  synthetic oil, applied directly onto the Drive and Driven rings
-  when filling the hub.'
-  https://chrisking.com/files/public/content/media/document/2/0/ring_drive_lube_addendum_10_16_b.pdf
+Tools
+=====
+2x 5mm hex wrenchs
+1x 2.5mm hex key
+   NOTE: The rear hub does have a 2.5mm hex nut on the non-drive side.
+chain tool - Have Park Tool SR-1 chain tool
+HG cassette lock ring removal tool
+   Disassembly of one piece axle on rear ISO hub (see Figure 8), p. 12-13
+   1. Remove cassette lockring and cassette using a chain whip and HG cassette
+      lock ring removal tool.
+
+   NOTE: Own 2 Park Tool FR-5.2 cassette lockring tool
+         3/4" diameter with 12 teeth to match Shimano HG CS-HG51-8 aw
+         11-32 cassette
+
+Lubrication
+===========
+o Tri-flow to axle O-ring (on axle and one in cap on other end - for front)
+o anti-seize to threads
+o Mobil 1 10w-30 synthetic oil
 
 
-NOTE: The rear hub does have a 2.5mm hex nut on the non-drive side.
+Procedure front (November 5, 2017)
+==================================
+1. Disassembly of two piece axle on front ISO hub (see Figure 5), p. 8
+   2x 5mm hex wrenches to take out two piece axle 
+
+2. Reassembly of two piece axle on front ISO hub (see Figure 5), p. 8
+   Lightly grease threads on axle, adjusting cone and axle end.
+   Apply two drops of Tri-flow or a quality 10w synthetic oil to axle O-ring.
+
+   NOTE: Given above used Mobil 1 10w-30 synthetic oil on O-ring
+         since that is what I'm using to fill the hub in next step.  
+
+3. When servicing RingDrive use approximately 2-4ml of 10w-30
+   synthetic oil, applied directly onto the Drive and Driven rings
+   when filling the hub.
+   --ring_drive_lube_addendum_10_16_b.pdf
 
 
-TODO: Audit of materials and tools to add to each section below.
+Procedure rear (November 5, 2017)
+==================================
 
 
-Tools:
-  2x 5mm hex wrenchs
-  1x 2.5mm hex key
-  chain tool - Have Park Tool SR-1 chain tool
-  HG cassette lock ring removal tool
-    Disassembly of one piece axle on rear ISO hub (see Figure 8), p. 12-13
-    1. Remove cassette lockring and cassette using a chain whip and HG cassette
-       lock ring removal tool.
+Lubrication
+===========
+o Tri-flow to axle O-ring (on axle and one in cap on other end - for front)
+  Reassembly of two piece axle on front ISO hub (see Figure 5), p. 8
+  Lightly grease threads on axle, adjusting cone and axle end.
+  Apply two drops of Tri-flow or a quality 10w synthetic oil to axle O-ring.
 
-    NOTE: Own 2 Park Tool FR-5.2 cassette lockring tool
-          3/4" diameter with 12 teeth to match Shimano HG CS-HG51-8 aw
-          11-32 cassette
+  NOTE: Given above used Mobil 1 10w-30 synthetic oil on O-ring
+        since that is what I'm using to fill the hub.
 
-Lubrication:
-  o Tri-flow to axle O-ring (on axle and one in cap on other end - for front)
-  o anti-seize to threads
-  o Mobil 1 10w-30 synthetic oil
+o anti-seize to threads
 
-  Procedure front:
-  1. Disassembly of two piece axle on front ISO hub (see Figure 5), p. 8
-     2x 5mm hex wrenches to take out two piece axle 
+o Mobil 1 10w-30 synthetic oil used to fill hub and on O-ring
 
-  2. Reassembly of two piece axle on front ISO hub (see Figure 5), p. 8
-     Lightly grease threads on axle, adjusting cone and axle end.  Apply two drops
-     of Tri-flow or a quality 10w synthetic oil to axle O-ring.
-  
-  3. When servicing RingDrive use approximately 2-4ml of 10w-30
-     synthetic oil, applied directly onto the Drive and Driven rings
-     when filling the hub.
-     --ring_drive_lube_addendum_10_16_b.pdf
-  
+o anti-seize to threads
+  Reassembly of one piece axle on rear ISO hub (see Figure 8),  p. 13
+  1. Lightly grease threads on adjusting clamp.  Apply two drops of Tri-flow to axle
+     O-ring.  If using QR adaptors or FunBolts, apply anti-seize to threads before
+     threading them into the axle.
 
-Lubricants:
-  Tri-flow - Have 
-  10w-30 synthetic oil - Have
-  anti-seize to threads
-    Reassembly of one piece axle on rear ISO hub (see Figure 8),  p. 13
-    1. Lightly grease threads on adjusting clamp.  Apply two drops of Tri-flow to axle
-       O-ring.  If using QR adaptors or FunBolts, apply anti-seize to threads before
-       threading them into the axle.
+     Ain't nothing wrong with regular ole' Phil Wood, but I like to use anti-seize for
+     the bottom bracket.  I find that it makes threading the BB into the shell smoother
+     and it has never creaked.  The only disadvantage is that anti-seize is messy and
+     will stain anything, including your fingers, that it touches.  So wear gloves or
+     be real careful.
 
-    Ain't nothing wrong with regular ole' Phil Wood, but I like to use anti-seize for
-    the bottom bracket.  I find that it makes threading the BB into the shell smoother
-    and it has never creaked.  The only disadvantage is that anti-seize is messy and
-    will stain anything, including your fingers, that it touches.  So wear gloves or
-    be real careful.
+     Titanium likes to seize. Period.
+     Go get yourself a $3 tube of anti-seize from the auto parts store.
 
-    Titanium likes to seize. Period.
-    Go get yourself a $3 tube of anti-seize from the auto parts store.
+     Thread: To grease, anti-seize or loctite?
+     http://forums.mtbr.com/general-discussion/grease-anti-seize-loctite-9853.html
 
-    Thread: To grease, anti-seize or loctite?
-    http://forums.mtbr.com/general-discussion/grease-anti-seize-loctite-9853.html
+  NOTE: Used anti-seize rather than Phil Wood & Co Waterproof Grease (have 3oz tube)
+        http://www.philwood.com/products/gohc/oilngrease.php
 
-  lightly grease threads - Phil Wood & Co Waterproof Grease
-    Have 3oz tube
-    http://www.philwood.com/products/gohc/oilngrease.php
 
 Sections
 ========
