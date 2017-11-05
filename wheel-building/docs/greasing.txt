@@ -12,7 +12,8 @@ Tools
 2x 5mm hex wrenchs
 
 1x 2.5mm hex key
-   NOTE: The rear hub does have a 2.5mm hex nut on the non-drive side.
+   NOTE: Used on the rear ISO hub adjusting clamp that minimizes over
+         tightening or over preloading of the  bearings.
 
 chain tool - Have Park Tool SR-1 chain tool
 
@@ -35,17 +36,19 @@ o Mobil 1 10w-30 synthetic oil
 
 Procedure front (November 5, 2017)
 ==================================
-1. Disassembly of two piece axle on front ISO hub (see Figure 5), p. 8
-   2x 5mm hex wrenches to take out two piece axle 
+I. Disassembly of two piece axle on front ISO hub (see Figure 5)
+   2x 5mm hex wrenches to take out two piece axle
+   --isomanual_8_1_16.pdf, p. 8
 
-2. Reassembly of two piece axle on front ISO hub (see Figure 5), p. 8
+II. Reassembly of two piece axle on front ISO hub (see Figure 5)
    Lightly grease threads on axle, adjusting cone and axle end.
    Apply two drops of Tri-flow or a quality 10w synthetic oil to axle O-ring.
 
    NOTE: Given above used Mobil 1 10w-30 synthetic oil on O-ring
          since that is what I'm using to fill the hub in next step.  
+   --isomanual_8_1_16.pdf, p. 8
 
-3. When servicing RingDrive use approximately 2-4ml of 10w-30
+III. When servicing RingDrive use approximately 2-4ml of 10w-30
    synthetic oil, applied directly onto the Drive and Driven rings
    when filling the hub.
    --ring_drive_lube_addendum_10_16_b.pdf
@@ -53,6 +56,72 @@ Procedure front (November 5, 2017)
 
 Procedure rear (November 5, 2017)
 ==================================
+ I. Disassembly of one piece axle on rear ISO hub (see Figure 8)
+    1. Remove cassette lock ring and cassette using a chain whip and HG cassette
+       lock ring removal tool.
+
+       NOTE: Used Park Tool FR-5.2 cassette lockring tool of which I own 2.
+
+   2. With adjusting clamp facing towards you, hold opposite end of axle stationary, and
+      rotate clamp in a counter clockwise direction to unscrew it from the thru-axle.  If
+      adjusting clamp is difficult to remove, insert a 2.5mm hex key into "helper hole" on
+      adjusting clamp adjacent to 2.5mm hex bolt. Use the hex key as a lever to unscrew
+      adjusting clamp.  Note: 142/157mm axles feature a steel axle end cap that will
+      pop off of axle end as adjusting clamp is pulled from axle.
+
+   3. Remove axle by pulling on drive side end of axle.
+
+   4. Hold hub or wheel in one hand and pull driveshell with other.
+
+   5. Hub shell bearings, RingDrive internals and driveshell bearing assemblies can
+      now be accessed.
+
+      For RingDrive inspection and maintenance information, see "The RingDrive", pg. 15.
+
+      For bearing service information see "Service of the bearings", pg. 17
+      --isomanual_8_1_16.pdf, p. 12-13
+
+II. Reassembly of one piece axle on rear ISO hub (see Figure 8)
+    1. Lightly grease threads on adjusting clamp.  Apply two drops of Tri-flow to axle
+       O-ring.  If using QR adaptors or FunBolts, apply anti-seize to threads before
+       threading them into the axle.
+
+    2. Apply two drops of Tri-flow to drive shell O-ring.  Insert driveshell into the hub
+       shell; turn in a clockwise motion while letting it pull itself in.   A distinctive click
+       sound will indicate that the driveshell is firmly seated.
+
+    3. Insert finger from the non-drive side to push spring retainer to ensure Driveshell
+       is seated correctly
+
+    4. Insert main axle, small end first in to driveshell.  Continue until axle is through the
+       hub and large end is firmly seated in driveshell.
+
+    5. Thread adjusting clamp onto the protruding threads of axle.
+
+    6. Snug the adjusting clamp up to the bear ing. Note: 142mm and 157mm axles feature
+       a steel axle end cap that must be hand-pressed back onto the end of the axle.
+
+    7. Proceed to "Adjustment of one piece axle on rear ISO hub", pg. 10.
+    --isomanual_8_1_16.pdf, p. 13
+
+III. Adjustment of one piece axle on rear ISO hub (see Figure 8)
+     The one piece rear axle assembly features an adjusting clamp that minimizes over tight-
+     ening or over preloading of the bearings.  Adjustment may be accomplished while axle
+     is attached to bicycle frame or in a truing stand.
+
+     1. Loosen the adjusting clamp hex bolt using a 2.5mm hex wrench.
+
+     2. Hand tighten the adjusting clamp onto the axle until it stops against the bearing.  If
+        adjusting clamp is difficult to move, insert a 2.5mm hex wrench into "helper hole"
+        on adjusting clamp adjacent to 2.5mm hex bolt.  Use the hex key as a lever
+        to turn adjusting clamp.
+
+     3. Once the adjusting clamp is in position, use a 2.5mm hex wrench to tighten
+        the adjusting clamp hex bolt to 10 inch-pounds.
+
+     4. Check for play or binding and readjust if needed.
+     --isomanual_8_1_16.pdf, p. 13-14
+
 
 
 Lubrication
@@ -216,8 +285,6 @@ Reassembly of two piece axle on front ISO hub (see Figure 5)
 isomanual_8_1_16.pdf, p. 8
 
 
-
-
 Adjustment of two piece axle on front ISO hub (see Figure 5)
 ============================================================
 1. Insert 5mm hex wrenches into both ends of axle assembly.
@@ -241,7 +308,6 @@ isomanual_8_1_16.pdf, p. 8-9
 
 Rear ISO Hub
 ============
-
 
 Disassembly of one piece axle on rear ISO hub (see Figure 8)
 ============================================================
@@ -283,7 +349,7 @@ Reassembly of one piece axle on rear ISO hub (see Figure 8)
    shell; turn in a clockwise motion while letting it pull itself in.   A distinctive click
    sound will indicate that the driveshell is firmly seated.
 
-3. Inser t finger from the non-drive side to push spring retainer to ensure Driveshell
+3. Insert finger from the non-drive side to push spring retainer to ensure Driveshell
    is seated correctly
 
 4. Insert main axle, small end first in to driveshell.  Continue until axle is through the
@@ -322,7 +388,6 @@ isomanual_8_1_16.pdf, p. 13-14
 
 The RingDrive
 =============
-
 Inspection
 Having removed the axle and driveshell (as instructed in "Disassembly..." pgs 10
 and 11) the RingDrive is accessible through the large side of the hub shell.  Visually
@@ -331,7 +396,7 @@ may have darkened slightly.  A modest film should coat the moving parts.
 
 As with the rest of the hub, the RingDrive is designed to operate with some water
 contamination.  Water intrusion can usually be remedied with basic maintenance.
-However, if foreign debris is detectable in the grease and/o r the grease looks hard
+However, if foreign debris is detectable in the grease and/or the grease looks hard
 or dry, then a complete removal and servicing of the RingDrive is necessary.
 
 Basic maintenance
@@ -427,7 +492,7 @@ in place.
 2. Lift and remove exposed rubber seal to access the interior of the bearing.
 
 3. Thoroughly flush the bearing with a lightspray lubricant (e.g., WD-40) and
-    blow dry.
+   blow dry.
 
 Note: Some solvents, synthetic lubr icants, and greases with high-pressure additives
       may attack and damage seals and other nonmetallic materials.  Minimize exposure
