@@ -10,9 +10,12 @@ Greasing Chris King hubs
 Tools
 =====
 2x 5mm hex wrenchs
+
 1x 2.5mm hex key
    NOTE: The rear hub does have a 2.5mm hex nut on the non-drive side.
+
 chain tool - Have Park Tool SR-1 chain tool
+
 HG cassette lock ring removal tool
    Disassembly of one piece axle on rear ISO hub (see Figure 8), p. 12-13
    1. Remove cassette lockring and cassette using a chain whip and HG cassette
@@ -21,6 +24,7 @@ HG cassette lock ring removal tool
    NOTE: Own 2 Park Tool FR-5.2 cassette lockring tool
          3/4" diameter with 12 teeth to match Shimano HG CS-HG51-8 aw
          11-32 cassette
+
 
 Lubrication
 ===========
