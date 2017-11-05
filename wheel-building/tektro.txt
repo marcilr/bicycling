@@ -1,0 +1,41 @@
+tektro.txt
+Created Sun Nov  5 14:22:12 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Tektro 160mm rotor
+
+
+Tektro
+138, Minju St.
+Heming Village,
+Sioushuei Township,
+Changhua County 504, Taiwan
+
+make:            Tektro
+model:           BR7348 160-1
+                 RO-160-1 TEKTRO AQUILA 160MM
+                 WAVY TYPE ROTOR W/BOLTS
+size:            160MM
+labeled:         Tecktro 160-1
+ISDN:            4-717592-008708
+manufactured in: Taiwan
+price:           2x $29.50 = $59.00 (wheelbuilder.com - October 19, 2017)
+
+From package:
+  Rotors diameter:
+    140mm, 160mm, 180mm, 203mm 
+
+  Hose Kit with banjo unit kit:
+    Length: 1800mm
+
+  Hose Kit with connected unit kit
+    Length: 1800mm
+
+
+
+Links
+=====
+Tektro
+http://tektro.com
+
