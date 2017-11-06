@@ -33,6 +33,11 @@ From package:
     Length: 1800mm
 
 
+Sun Nov  5 15:59:09 AKST 2017
+=============================
+Found that the Specialized Rockhopper actually has Tektro 5I 180MM 180-7 LZ rotors.
+i.e. Not 160MM rotors.
+
 
 Links
 =====
