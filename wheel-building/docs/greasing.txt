@@ -6,13 +6,28 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 Greasing Chris King hubs
 
 
-Questions for:
-  Chris King ISO Disc Rear MTB Hub 135QR
-  Shimano Navy Fun Bolt
+Questions:
+o Fun Bolt allen wrench size?
+
+
+
+Tue Nov  7 09:40:40 AKST 2017
+=============================
+Called Chris King at (800)523-6008 to do T-shirt return.
+Inquired with ISO hub questions:
+
+o The front hub should be packed withproof like grease not 10w-30.
+  Will need to swap it out for the Phil Wood.
+
+o Removal of split ring for bearing removal required?
+  - See the online support page for how to remove the
+    split ring (he had specific term for the ring).
 
 o RingDrive lubricant required or just Mobil 1 synthetic 10w-30?
-o Removal of split ring for bearing removal required?
-o Fun Bolt allen wrench size?
+  - Rear hub dive and driven ring - 2ML of mobil 1 synthetic
+  - Bearings pressed in packed with waterproof grease.
+  - Online support page for how to service the rear bearing.
+
 
 Tools
 =====
