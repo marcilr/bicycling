@@ -33,6 +33,27 @@ From package:
     Length: 1800mm
 
 
+Sat Dec  9 17:59:20 AKST 2017
+=============================
+Got new rotors onto the front and rear wheel.
+
+The new front wheel was on the bike with the new wheel and old
+8" rotor.  Swapped on new 8" rotor:
+
+  New 8" rotor labeled:
+    Tecktro 180
+
+  Old 8" 
+    Tecktro 5I
+    180-7
+    Z7
+
+Mounted new 6" rotor to rear wheel still in box:
+
+  New 6" rotor labeled:
+    Tecktro 160-1
+
+
 Wed Nov 15 18:45:49 AKST 2017
 =============================
 Got the Tektro 180 wavy rotor today.
