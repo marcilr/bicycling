@@ -21,4 +21,5 @@
 # =====================================================================
 # =====================================================================
 
-ssh://git@github.com/marcilr/hubs hubs
+ssh://git@github.com/marcilr/hubs   hubs
+ssh://git@github.com/marcilr/rims   rims
